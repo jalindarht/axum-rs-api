@@ -41,7 +41,7 @@ rustc 1.x.x (yyyy-mm-dd)
 
 ```
 
-### 3. Setup & Run Project
+## Setup & Run Project
 
 *   Clone Repository 
 
